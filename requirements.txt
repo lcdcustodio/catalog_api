@@ -1,0 +1,12 @@
+Flask
+flask-accepts
+Flask-SQLAlchemy
+marshmallow
+SQLAlchemy
+Werkzeug
+flask-restx
+pytest
+pytest-cov
+pytest-flask
+colour
+firebase-admin
